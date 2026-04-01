@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"KainBattler","characterIndex":0,"characterName":"KainCharacter","classId":1,"equips":[5,0,0,0,3],"faceIndex":0,"faceName":"Kain Reality","traits":[],"initialLevel":1,"maxLevel":99,"name":"kain (kinda)","nickname":"kain (kinda)","note":"","profile":"my name is kain and i'm hugnry"},
+{"id":2,"battlerName":"RumiBattler","characterIndex":0,"characterName":"RumiCharacter","classId":2,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"Rumi DRAWING","traits":[],"initialLevel":1,"maxLevel":99,"name":"rumi","nickname":"rumi","note":"","profile":"my name is rumi and i'm a room"},
+{"id":3,"battlerName":"TaxBattler","characterIndex":0,"characterName":"TaxCharacter","classId":3,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"tax","nickname":"tax","note":"","profile":"my name is tax and im old and im a lawyer because thats\nwhat i do"},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"finger","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"closet3","traits":[],"initialLevel":1,"maxLevel":99,"name":"finger","nickname":"finger","note":"","profile":"i saved your life"}
+]
